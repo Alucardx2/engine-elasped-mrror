@@ -360,7 +360,7 @@ CPU: {cpu}% | RAM: {mem}%
 Disk: {total} | Free: {free}
 Used: [{disk}%] is {used}
 
-Made with ❤️ by Dawn
+Bot By TargetX25 
 """
     return stats
 dispatcher.add_handler(
